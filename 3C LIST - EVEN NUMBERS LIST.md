@@ -20,7 +20,6 @@ To write a Python function that accepts a number **N** and creates a list contai
 6. Terminate the program.
 
 ---
-
 ### PROGRAM
 
 ```python
